@@ -8,4 +8,5 @@ openai
 tiktoken
 sentence-transformers
 faiss-cpu
+gunicorn
 pypdf
